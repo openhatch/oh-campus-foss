@@ -1,9 +1,9 @@
 <?php
 $page_title = "Home";
 $content = <<<EOD
-<h2>Open Source Comes to Campus</h2>
+<h2>Welcome!</h2>
 
-<p>Hi. We're <a href="http://openhatch.org">OpenHatch</a>. We're a bunch of free software enthusiasts.</p>
+<img src="images/oh-code-is-fun.png" width="180" class="alignleft" /><p>Hi. We're <a href="http://openhatch.org">OpenHatch</a>. We're a bunch of free software enthusiasts.</p>
 
 <p>We want more college students to have the community knowledge and technical skills to participate in globally distributed software projects: Big ones, like
 <a href="http://www.mozilla.com/firefox/">Firefox</a> and 

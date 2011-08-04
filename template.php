@@ -1,6 +1,6 @@
 <?php
-$site_title = "Open Source Immersion at UPenn";
-$BASE="http://penn.openhatch.org/";
+$site_title = "Open Source Comes to Campus";
+$BASE="file:///home/karen/Code/foss-workshop-site/";
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
@@ -10,7 +10,9 @@ $BASE="http://penn.openhatch.org/";
 </head>
 <body>
 <div id="header">
-<h1><?php echo $site_title?>: <?php echo $page_title ?></h1>
+<a href="http://www.openhatch.org"><img src="images/openhatch-logo.png" class="alignleft" /></a>
+<h1><?php echo $site_title?></h1>
+<h2>by OpenHatch</h2>
  <div id="menu">
   <ul id="nav">
    <li><a href="">Home</a></li>
@@ -23,6 +25,14 @@ $BASE="http://penn.openhatch.org/";
 </div>
 <div id="content">
 <div id="right">
+<img src="images/happystudents.jpg" />
+<img src="images/twostudentsconcentrating.jpg"/>
+<img src="images/intenseteaching.jpg" />
+<img src="images/welcomehackers.jpg" />
+<img src="images/yuvithinks.jpg" />
+<img src="images/studentandlaptop.jpg" />
+</div>
+<div id="left">
 <?php echo $content ?>
 </div>
 	
