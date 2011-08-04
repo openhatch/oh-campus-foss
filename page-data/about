@@ -1,26 +1,23 @@
 <?php
 $page_title = "About";
 $content = <<<EOD
-<h2>Who we are</h2>
+<h2>Who Asheesh is</h2>
 
-<p>The event is put together by
-<a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a>,
-<a href="http://openhatch.org/people/ymasory/">Yuvi Masory</a>, and <a href="http://github.com/fford">Felice Ford</a> with the generous help of the Penn Department of Computer and Information Science. Asheesh hopes
-that it becomes the first of a series of OpenHatch-led student immersion events
-in the free software community.</p>
+<p><img src="images/asheesh.jpg" width="180" class="alignleft" /> <a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a> is the co-founder and lead developer of <a href="http://openhatch.org">OpenHatch</a> and a Developer in <a href="http://www.debian.org">Debian</a>. He has also engineered software at <a href="http://creativecommons.org">Creative Commons</a> in San Francisco and worked on Python-based video sharing site <a href="http://www.mirocommunity.org/">Miro Community</a> for the <a href="http://pculture.org">Participatory Culture Foundation</a> in New York City. He has given talks on FOSS mentorship, community-building, and outreach at several open source software conferences including <a href="http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-get-new-contributors-and-diversity-through-outreach-4898684">PyCon</a> and <a href="http://penta.debconf.org/dc11_schedule/events/778.en.html">DebConf</a>. s
 
-<h2>Sponsors</h2>
+<p>Asheesh is currently based in Boston, MA but regularly travels all over the place. <a href="mailto:asheesh@openhatch.org">Ask Asheesh to run an Open Source Comes to Campus event at your school!</a></p>
 
-<p>We're grateful to have the sponsorship of <a href="http://github.com/">Github</a>,
-<a href="http://bitbucker.com/">Bitbucket</a>, <a href="http://oreilly.com/">O'Reilly</a>, and <a href="http://pragprog.com/">Pragmatic Bookshelf</a>. They have provided us with funding and lots of goodies to give to attendees.</p>
+<h2>What OpenHatch is</h2>
+
+<p>OpenHatch is an open source community aiming to help newcomers find their way into free software projects. We work toward this goal by developing useful web tools for new contributors and leading in-person outreach events.</p>
 
 <h2>Get in touch</h2>
 
-<p>If you want to get in touch with us, the best thing to do is to email us. Try this: penn@openhatch.org</p>
+<p>Curious about running an Open Source Comes to Campus event on your campus? Want to bring Asheesh out to run one for you? Email us at <a href="mailto:events@lists.openhatch.org">events@lists.openhatch.org</a>.</p>
 
-<p>Want to chat ahead of the event? Ask questions on ##penn on FreeNode, below. Consider using IRC your first open source accomplishment :)</p>
+<p>Want to chat ahead of an event? Have other questions? Ask questions on the #openhatch channel on FreeNode, below. Consider using IRC your first open source accomplishment :)</p>
 
-<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23%23penn&uio=d4" width="647" height="400"></iframe>
+<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23%23openhatch&uio=d4" width="647" height="400"></iframe>
 
 EOD;
 

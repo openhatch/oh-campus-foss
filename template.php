@@ -1,6 +1,6 @@
 <?php
 $site_title = "Open Source Comes to Campus";
-$BASE="file:///home/karen/Code/foss-workshop-site/";
+$BASE="campus.openhatch.org/";
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
@@ -11,12 +11,12 @@ $BASE="file:///home/karen/Code/foss-workshop-site/";
 <body>
 <div id="header">
 <a href="http://www.openhatch.org"><img src="images/openhatch-logo.png" class="alignleft" /></a>
-<h1><?php echo $site_title?></h1>
+<h1><a href=""><?php echo $site_title?></a></h1>
 <h2>by OpenHatch</h2>
  <div id="menu">
   <ul id="nav">
    <li><a href="">Home</a></li>
-   <li><a href="learning/">What we teach</a></li>
+   <li><a href="curriculum/">What we teach</a></li>
    <li><a href="past-events/">Past events</a></li>
    <li><a href="upcoming-events/">Upcoming events</a></li>
    <li><a href="about/">About us</a></li>

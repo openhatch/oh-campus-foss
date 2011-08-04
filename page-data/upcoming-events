@@ -1,0 +1,12 @@
+<?php
+$page_title = "What we teach";
+$content = <<<EOD
+
+<h2>Upcoming events</h2>
+
+<p>No events planned right now. <a href="mailto:asheesh@openhatch.org">Contact Asheesh</a> and bring an Open Source Comes to Campus event to your school today!</p>
+
+EOD;
+
+require_once("template.php");
+?>

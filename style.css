@@ -1,24 +1,24 @@
 html,body{margin:0;padding:0}
 body{font: 12pt Tuffy,Summersby,Arial,Verdana,sans-serif;
     text-align: left;background: #fff;padding-bottom:20px}
-a { color: #0066B3; background: inherit; text-decoration: none;}
+a { color: #0066B3; text-decoration: none;}
 a img { border: none; }
 h1 { font: bold 2.2em Arial, Arial, Sans-Serif; color: #036DA7 }
 h2 { font: bold 1.5em Arial, Arial, Sans-Serif; padding: 0; margin: 0; }
 
 .alignleft {
     float: left;
-    padding: 0 10px 10px 0;
+    padding: 0 10px 5px 0;
     }
 
 .alignright {
     float:right;
-    padding: 0 0 10px 10px;
+    padding: 0 0 5px 10px;
     }
     
 div#header{width:100%;overflow:hidden;background: #666; }
 div#header h1,div#menu{width:770px;margin:0 15px;text-align:left}
-div#header h1{padding: 10px 0 10px;color: #fff}
+div#header h1 a{padding: 10px 0 10px;color: #fff}
 div#header h2 {padding: 0 0 20px 0; margin: 0 15px; color: #eee; font-weight: normal;}
 div#header img {margin: 5px 0 0 5px;}
 

@@ -1,4 +1,4 @@
-all: index.html hackathon/index.html learning/index.html about/index.html old-index/index.html
+all: index.html past-events/index.html upcoming-events/index.html curriculum/index.html about/index.html old-index/index.html
 
 clean:
 	@rm index.html
@@ -10,11 +10,14 @@ index.html: template.php page-data/index
 old-index/index.html: template.php page-data/old-index
 	php page-data/old-index > old-index/index.html
 
-hackathon/index.html: template.php page-data/hackathon
-	php page-data/hackathon > hackathon/index.html
+past-events/index.html: template.php page-data/past-events
+	php page-data/past-events > past-events/index.html
+	
+upcoming-events/index.html: template.php page-data/upcoming-events
+	php page-data/upcoming-events > upcoming-events/index.html
 
-learning/index.html: template.php page-data/learning
-	php page-data/learning > learning/index.html
+curriculum/index.html: template.php page-data/curriculum
+	php page-data/curriculum > curriculum/index.html
 
 about/index.html: template.php page-data/about
 	php page-data/about > about/index.html

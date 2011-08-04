@@ -11,21 +11,13 @@ $content = <<<EOD
 <a href="http://pyblosxom.bluesock.org/">PyBlosxom</a> and
 <a href="http://rephial.org/">angband</a>.</p>
 
-<p>Does that sound cool? We'll teach you.</p>
-
 <p>You do <b>not</b> need to know how to program to contribute to free software. You can contribute code, but also original art, testing, documentation, web design, bug triaging, or anything else.</p>
 
+<p>Does that sound cool? We'll teach you. <a href="upcoming-events/">See if we're coming to your school soon</a> -- if not, <a href="mailto:asheesh@openhatch.org">contact Asheesh</a> to see about organizing a workshop on your campus!</p>
 
 <div class="callout" style="float: right;">
-<h2>It's over... what now?</h2>
-
-<p>On <strong>Saturday, Sep 25</strong>, we taught 30 college students.</p>
-
-<p>(If you're interested in the old front page, <a href="old-index/">you can still see it</a>.)</p>
-
-<p class="doit"><a href="http://openhatch.org/wiki/U_Penn_open_source_2010"><strong>Read how you can follow up from the event</strong></a> &raquo;</p>
-
-</div>
+<h2>Next event:</h2>
+<p>None planned right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="mailto:asheesh@openhatch.org">bring us to your campus</a>!</div>
 
 
 <br style="clear: both;" />

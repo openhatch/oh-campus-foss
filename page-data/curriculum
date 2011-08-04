@@ -1,0 +1,51 @@
+<?php
+$page_title = "What we teach";
+$content = <<<EOD
+
+<h2>What we teach</h2>
+
+<p>A typical Open Source Comes to Campus event has two parts: a <strong>workshop</strong> where we teach you how to use the tools and lingo associated with open source software development, and a <strong>hackathon</strong> where you and your fellow students choose an open source software project to work on, find a bug to tackle, and (hopefully) write your first patch, make your first documentation fix, or otherwise make a contribution to free software.</p>
+
+<h3>The workshop</h3>
+
+<p>(Link to curriculum, etc etc goes here)</p>
+
+<h3>The hackathon</h3>
+
+<p>Bring your laptop and work on an open source software project.
+You can program, write documentation,
+make fun of people through <abbr title="Internet Relay Chat">IRC</abbr>,
+discover and report usability problems, and more.</p>
+
+<p>The point of this hackathon is to help you get your hands dirty working on a real project. To help with that,
+we'll have Asheesh Laroia from <a href="http://openhatch.org/">OpenHatch</a>
+and other community members in attendance. If you don't know what you want to work on,
+or you get stuck, you can ask for help, ideas, or advice.</p>
+
+<p>This is a perfect opportunity to work on your problem-solving 
+skills, and learn to collaborate with other open source programmers.</p>
+
+<h2>FAQ</h2>
+
+<h3>Why do this?</h3>
+
+<p>Open source software like Linux and Firefox are used by hundreds of millions of people.
+This event is the fast track to participating.</p>
+
+<p>If you come out on Saturday, we'll teach you how the community works. You'll get to play with
+essential tools like version control and IRC chat.</p>
+
+<h3>You want me to go to class on Saturday?</h3>
+
+<p>It's not really <em>class</em>. For half an hour, five students and one teacher will discuss
+a particular topic, like how projects collaborate using bug trackers. Then you get to
+<strong>try things out</strong> on your own computer. Then onto the next topic.</p>
+
+<p>Plus you will get lunch and other goodies like books and subscriptions.</p>
+
+<p><strong>Already attended one of our workshops? <a href="http://openhatch.org/wiki/U_Penn_open_source_2010">Read how you can follow up from the event</a> &raquo;</strong></p>
+
+EOD;
+
+require_once("template.php");
+?>

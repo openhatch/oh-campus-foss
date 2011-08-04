@@ -1,0 +1,16 @@
+<?php
+$page_title = "What we teach";
+$content = <<<EOD
+
+<h2>Past events</h2>
+
+<ul>
+<li><a href="http://penn.openhatch.org">Open Source Immersion at UPenn</a> - September 25-26, 2011
+<p>Organized by <a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, <a href="http://openhatch.org/people/ymasory/">Yuvi Masory</a>, <a href="http://github.com/fford">Felice Ford</a>, and the Penn Department of Computer Science. Sponsored by <a href="http://github.com">Github</a>, <a href="http://bitbucket.com">Bitbucket</a>, <a href="http://oreilly.com">O'Reilly</a>, and <a href="http://pragprog.com">Pragmatic Bookshelf</a>.</p></li>
+</ul>
+
+<p>Sound cool? <a href="mailto:asheesh@openhatch.org">Contact Asheesh</a> and bring an Open Source Comes to Campus event to your school today!</p>
+EOD;
+
+require_once("template.php");
+?>
