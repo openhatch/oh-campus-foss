@@ -16,7 +16,7 @@ h2 { font: bold 1.5em Arial, Arial, Sans-Serif; padding: 0; margin: 0; }
     padding: 0 0 5px 10px;
     }
     
-div#header{width:100%;overflow:hidden;background: #666; }
+div#header{width:100%;overflow:hidden;background: #666; padding-top: 3px;}
 div#header h1,div#menu{width:770px;margin:0 15px;text-align:left}
 div#header h1 a{padding: 10px 0 10px;color: #fff}
 div#header h2 {padding: 0 0 20px 0; margin: 0 15px; color: #eee; font-weight: normal;}
