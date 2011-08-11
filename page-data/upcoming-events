@@ -4,7 +4,37 @@ $content = <<<EOD
 
 <h2>Upcoming events</h2>
 
-<p>No events planned right now. <a href="mailto:asheesh@openhatch.org">Contact Asheesh</a> and bring an Open Source Comes to Campus event to your school today!</p>
+<p>No events planned right now.
+
+<h2>How to bring us to your school</h2>
+
+<p>We're looking for students to bring us to their universities and colleges. Can you help?</p>
+
+<p><strong>Here's the short version</strong>: Send an email to hello@openhatch.org with the following things:</p>
+
+<ul>
+<li>Your name and your college's name</li>
+<li>One sentence about how you discovered this website</li>
+<li>One sentence about your involvement in open source (e.g., "never heard of it", "run Ubuntu", "wrote most of the Linux kernel")</li>
+<li>One sentence about why you're excited about hosting this event</li>
+</ul>
+
+<p><strong>Here's some more background</strong>:
+We aim to have 20-30 students attend each OpenHatch workshop. We're
+especially hoping to hear from you if your school has least 150
+students in computer science, software engineering, or other similar
+engineering disciplines. (If you're not sure, it's okay: send us an email anyway.)</p>
+
+<p>If your school isn't in the Boston area, it's very helpful if you can talk to
+your computer science department about organizing travel funding for Asheesh,
+the main organizer. We can often help you ask for this.</p>
+
+<p>Once you get in touch with us, we'll work on choosing a
+date. With your help, we can schedule
+the event so that it works best for students at your college.
+OpenHatch will work to find good teachers from the open source community
+near your college. (If you have ideas for people, do say so!)</p>
+
 
 EOD;
 
