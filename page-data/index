@@ -6,18 +6,18 @@ $content = <<<EOD
 <img src="images/oh-code-is-fun.png" width="180" class="alignleft" /><p>Hi. We're <a href="http://openhatch.org">OpenHatch</a>. We're a bunch of free software enthusiasts.</p>
 
 <p>We want more college students to have the community knowledge and technical skills to participate in globally distributed software projects: Big ones, like
-<a href="http://www.mozilla.com/firefox/">Firefox</a> and 
+<a href="http://www.mozilla.com/firefox/">Firefox</a> and
 <a href="http://wordpress.org/">WordPress</a>, and small ones, like
 <a href="http://pyblosxom.bluesock.org/">PyBlosxom</a> and
 <a href="http://rephial.org/">angband</a>.</p>
 
-<p>You do <b>not</b> need to know how to program to contribute to free software. You can contribute code, but also original art, testing, documentation, web design, bug triaging, or anything else.</p>
+<p>You do <b>not</b> need to know how to program to contribute to free software. Open source projects need code, and they also need original art, testing, documentation, web design, and bug triaging.</p>
 
-<p>Does that sound cool? We'll teach you. <a href="upcoming-events/">See if we're coming to your school soon</a> -- if not, <a href="mailto:asheesh@openhatch.org">contact Asheesh</a> to see about organizing a workshop on your campus!</p>
+<p>Does that sound cool? We'll teach you. <a href="upcoming-events/">See if we're coming to your school soon</a> -- if not, <a href="upcoming-events/">contact us</a> to see about organizing a workshop on your campus!</p>
 
 <div class="callout" style="float: right;">
 <h2>Next event:</h2>
-<p>None planned right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="mailto:asheesh@openhatch.org">bring us to your campus</a>!</div>
+<p>None planned right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="upcoming-events/">bring us to your campus</a>!</div>
 
 
 <br style="clear: both;" />
