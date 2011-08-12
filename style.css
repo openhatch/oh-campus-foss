@@ -89,4 +89,5 @@ ul#nav li.activelink a,ul#nav li.activelink a:hover{background: #FFF;color: #003
     top: 0px;
     right: 0px;
     position: fixed;
+    clip: inherit;
 }    
