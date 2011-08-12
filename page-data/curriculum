@@ -4,7 +4,7 @@ $content = <<<EOD
 
 <h2>What we teach</h2>
 
-<p>A typical Open Source Comes to Campus event has two parts: a <strong>workshop</strong> where we teach you how to use the tools and lingo associated with open source software development, and a <strong>project day</strong> where you and your fellow students choose an open source software project to work on, find a bug to tackle, and (hopefully) write your first patch, make your first documentation fix, or otherwise make a contribution to free software.</p>
+<p>A typical Open Source Comes to Campus event has two parts: a <strong>workshop</strong> where we teach you how to use the tools and lingo associated with open source software development, and a <strong>project day</strong> where you and your fellow students choose an open source software project to work on, find a bug to tackle, and (hopefully) write your first patch, make your first documentation fix, or otherwise make a contribution to open source software.</p>
 
 <h3>The workshop</h3>
 
@@ -17,7 +17,7 @@ learn:</p>
 <li><strong>Project organization</strong>, including version control, bug trackers, and individual roles within a project</li>
 <li><strong>Getting the code</strong>, and the basics you need to build most packages you'll find</li>
 <li><strong>Command line skills</strong> so you know how to navigate Linux and similar systems</li>
-<li><strong>The movement</strong>: Where free software and open source came from, and what makes them important</li>
+<li><strong>The movement</strong>: Where open source came from, and what makes it important</li>
 </ul>
 
 <h3>The project day</h3>
