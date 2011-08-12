@@ -10,6 +10,7 @@ $BASE="http://campus.openhatch.org/";
 <base href="<?php echo $BASE ?>" />
 </head>
 <body>
+<img src="/images/beta_banner.png" id="beta_banner">
 <div id="header">
 <a href="http://www.openhatch.org"><img src="images/openhatch-logo.png" class="alignleft" /></a>
 <h1><a href=""><?php echo $site_title?></a></h1>

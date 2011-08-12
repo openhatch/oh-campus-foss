@@ -82,3 +82,11 @@ ul#nav li.activelink a,ul#nav li.activelink a:hover{background: #FFF;color: #003
 .callout h2 {
     text-align: center;
 }
+
+#beta_banner {
+    width: 91px;
+    height: 107px;
+    top: 0px;
+    right: 0px;
+    position: fixed;
+}    
