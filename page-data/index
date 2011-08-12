@@ -19,7 +19,7 @@ $content = <<<EOD
 
 <div class="callout" style="float: right;">
 <h2>Next campus event:</h2>
-<p>None scheduled right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="upcoming-events/">bring us to your campus</a>!</div>
+<p>We're still planning this year's event series; none scheduled yet.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="upcoming-events/">bring us to your campus</a>!</div>
 
 <br style="clear: both;" />
 
