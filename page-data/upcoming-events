@@ -4,7 +4,7 @@ $content = <<<EOD
 
 <h2>Upcoming events</h2>
 
-<p>No events planned right now.
+<p>No events scheduled yet.</p>
 
 <h2>How to bring us to your school</h2>
 
@@ -23,17 +23,18 @@ $content = <<<EOD
 We aim to have 20-30 students attend each OpenHatch workshop. We're
 especially hoping to hear from you if your school has least 150
 students in computer science, software engineering, or other similar
-engineering disciplines. (If you're not sure, it's okay: send us an email anyway.)</p>
+engineering disciplines. (If you're not sure, it's okay. Send us an email anyway.)</p>
 
-<p>If your school isn't in the Boston area, it's very helpful if you can talk to
+<p>If your school is outside the Boston area, it's very helpful if you can talk to
 your computer science department about organizing travel funding for Asheesh,
-the main organizer. We can often help you ask for this.</p>
+the main organizer. We can help you ask for this.</p>
 
 <p>Once you get in touch with us, we'll work on choosing a
 date. With your help, we can schedule
 the event so that it works best for students at your college.
-OpenHatch will work to find good teachers from the open source community
-near your college. (If you have ideas for people, do say so!)</p>
+OpenHatch will bring Asheesh, the project lead, and other
+open source community members to teach.
+(If you have ideas for good teachers, let us know!)</p>
 
 
 EOD;
