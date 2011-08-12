@@ -10,7 +10,9 @@ $content = <<<EOD
 
 <p>We're looking for students to bring us to their universities and colleges. Can you help?</p>
 
-<p><strong>Here's the short version</strong>: Send an email to hello@openhatch.org with the following things:</p>
+<p><strong>Here's the short version</strong>: Send an email to <a
+href="mailto:hello@openhatch.org">hello@openhatch.org</a> with the
+following things:</p>
 
 <ul>
 <li>Your name and your college's name</li>
