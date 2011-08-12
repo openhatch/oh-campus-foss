@@ -32,19 +32,33 @@ var bind_click_handler = function () {
 $(bind_click_handler);
 </script>
 
-<h2>Who Asheesh is</h2>
+<h2>About these events</h2>
 
-<p><img src="images/asheesh.jpg" width="180" class="alignleft" /> <a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a> is the co-founder and lead developer of <a href="http://openhatch.org">OpenHatch</a> and a Developer in <a href="http://www.debian.org">Debian</a>. He has also engineered software at <a href="http://creativecommons.org">Creative Commons</a> in San Francisco and worked on Python-based video sharing site <a href="http://www.mirocommunity.org/">Miro Community</a> for the <a href="http://pculture.org">Participatory Culture Foundation</a> in New York City. He has given talks on FOSS mentorship, community-building, and outreach at several open source software conferences including <a href="http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-get-new-contributors-and-diversity-through-outreach-4898684">PyCon</a> and <a href="http://penta.debconf.org/dc11_schedule/events/778.en.html">DebConf</a>. s
+<p>As we said on the <a href="/">front page</a>, we want more students to know how to contribute to 
+free software. We believe in learning through <em>doing</em>, which is why the events are designed
+to be interactive. We also believe it's essential to understand that there is a community behind
+free, open source software; to show how real that is, we bring community members onto campus.</p>
 
-<p>Asheesh is currently based in Boston, MA but regularly travels all over the place. <a href="mailto:asheesh@openhatch.org">Ask Asheesh to run an Open Source Comes to Campus event at your school!</a></p>
+<p>So far, we have run one event. You can read about that on
+the <a href="/past-events/">past events</a> page.</p>
 
-<h2>What OpenHatch is</h2>
+<p>The events are usually organized by Asheesh Laroia.</p>
 
-<p>OpenHatch is an open source community aiming to help newcomers find their way into free software projects. We work toward this goal by developing useful web tools for new contributors and leading in-person outreach events.</p>
+<h2>About Asheesh</h2>
+
+<p><img src="images/asheesh.jpg" width="180" class="alignleft" /> <a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a> is the co-founder and lead developer of <a href="http://openhatch.org">OpenHatch</a> and a Developer in <a href="http://www.debian.org">Debian</a>. He has also engineered software at <a href="http://creativecommons.org">Creative Commons</a> in San Francisco and worked on Python-based video sharing site <a href="http://www.mirocommunity.org/">Miro Community</a> for the <a href="http://pculture.org">Participatory Culture Foundation</a> with an office in New York City. He has given talks on <abbr title="Free, open source software">FOSS</abbr> mentorship, community-building, and outreach at several open source software conferences including <a href="http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-get-new-contributors-and-diversity-through-outreach-4898684">PyCon</a> and <a href="http://penta.debconf.org/dc11_schedule/events/778.en.html">DebConf</a>.
+
+<p>Asheesh is currently based in Boston, MA, and regularly travels all over the place. You can <a href="/upcoming-events/">ask him to run an Open Source Comes to Campus event at your school</a>!</p>
+
+<h2>About OpenHatch</h2>
+
+<p>OpenHatch is an open source community aiming to help newcomers find their way into free software projects. We work toward this goal by developing useful <a href="https://openhatch.org/">web tools</a> for new contributors and leading <a href="http://openhatch.org/wiki/Events">outreach events</a>, both on-line and in person.</p>
 
 <h2>Get in touch</h2>
 
-<p>Curious about running an Open Source Comes to Campus event on your campus? Want to bring Asheesh out to run one for you? Email us at <a href="mailto:events@lists.openhatch.org">events@lists.openhatch.org</a>.</p>
+<p>If you want to help one of these events happen near you, you can <a href="/upcoming-events/">read how to do that</a>.</p>
+
+<p>If you want to help organize or discuss these events, you should join the <a href="http://lists.openhatch.org/mailman/listinfo/events">events mailing list</a>. We discuss a number of outreach events there.</p>
 
 <p>Want to chat ahead of an event? Have other questions? Ask questions on the #openhatch channel on FreeNode, below. Consider using IRC your first open source accomplishment :)</p>
 

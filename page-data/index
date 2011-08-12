@@ -18,8 +18,8 @@ $content = <<<EOD
 <p>Does that sound cool? We'll teach you. <a href="upcoming-events/">See if we're coming to your school soon</a> -- if not, <a href="upcoming-events/">contact us</a> to see if we can work together to run a workshop on your campus!</p>
 
 <div class="callout" style="float: right;">
-<h2>Next event:</h2>
-<p>None planned right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="upcoming-events/">bring us to your campus</a>!</div>
+<h2>Next campus event:</h2>
+<p>None scheduled right now.</p> <a href="upcoming-events/">See our past events</a> and <a href="curriculum/">what we teach</a>--if they sound cool to you, <a href="upcoming-events/">bring us to your campus</a>!</div>
 
 <br style="clear: both;" />
 
