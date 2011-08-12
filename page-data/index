@@ -9,8 +9,8 @@ $content = <<<EOD
 
 <p>We want more college students to have the community knowledge and technical skills to participate in globally distributed software projects: Big ones, like
 <a href="http://www.mozilla.com/firefox/">Firefox</a> and
-<a href="http://wordpress.org/">WordPress</a>, and small ones, like
-<a href="http://pyblosxom.bluesock.org/">PyBlosxom</a> and
+<a href="http://wordpress.org/">WordPress</a>, and smaller ones, like
+<a href="http://mediagoblin.org/">MediaGoblin</a> and
 <a href="http://rephial.org/">angband</a>.</p>
 
 <p>You do <b>not</b> need to know how to program to contribute to free software. Open source projects need code, and they also need original art, testing, documentation, web design, and bug triaging.</p>
