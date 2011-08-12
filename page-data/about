@@ -1,6 +1,37 @@
 <?php
 $page_title = "About";
 $content = <<<EOD
+
+<script type="text/javascript">
+var click_handler = function () {
+   // Create the iframe we will drop in
+   var iframe = document.createElement("iframe");
+   iframe.src = "http://webchat.freenode.net?randomnick=1&channels=%23%23openhatch&uio=d4";
+   iframe.width = "640";
+   iframe.height = "400";
+
+   // Find the element to replace
+   var p = document.getElementById('click_to_webchat');
+   if ( p === null ) {
+        return false;
+   }
+    
+   // Do the replacement
+   p.parentNode.replaceChild(iframe, p);
+
+   // return false, indicating that event propagation should stop
+   return false;
+}
+
+// Bind it to our favorite link
+var bind_click_handler = function () {
+    $('#click_to_webchat a').click(click_handler);
+}
+
+// Bind it at page load
+$(bind_click_handler);
+</script>
+
 <h2>Who Asheesh is</h2>
 
 <p><img src="images/asheesh.jpg" width="180" class="alignleft" /> <a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a> is the co-founder and lead developer of <a href="http://openhatch.org">OpenHatch</a> and a Developer in <a href="http://www.debian.org">Debian</a>. He has also engineered software at <a href="http://creativecommons.org">Creative Commons</a> in San Francisco and worked on Python-based video sharing site <a href="http://www.mirocommunity.org/">Miro Community</a> for the <a href="http://pculture.org">Participatory Culture Foundation</a> in New York City. He has given talks on FOSS mentorship, community-building, and outreach at several open source software conferences including <a href="http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-get-new-contributors-and-diversity-through-outreach-4898684">PyCon</a> and <a href="http://penta.debconf.org/dc11_schedule/events/778.en.html">DebConf</a>. s
@@ -17,7 +48,9 @@ $content = <<<EOD
 
 <p>Want to chat ahead of an event? Have other questions? Ask questions on the #openhatch channel on FreeNode, below. Consider using IRC your first open source accomplishment :)</p>
 
-<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23%23openhatch&uio=d4" width="647" height="400"></iframe>
+<div style="height: 400;">
+<p id="click_to_webchat" style="margin-top: 50px;"><a href="#" onclick="click_handler();">Click here to chat on IRC within this web page</a></p>
+</div>
 
 EOD;
 
