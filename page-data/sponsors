@@ -1,0 +1,10 @@
+<?php
+$page_title = "Sponsors";
+$content = <<<EOD
+
+<h2>Sponsors of these events</h2>
+
+EOD;
+
+require_once("template.php");
+?>
