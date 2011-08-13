@@ -54,6 +54,13 @@ the <a href="/past-events/">past events</a> page.</p>
 
 <p>OpenHatch is an open source community aiming to help newcomers find their way into open source software projects. We work toward this goal by developing useful <a href="https://openhatch.org/">web tools</a> for new contributors and leading <a href="http://openhatch.org/wiki/Events">outreach events</a>, both on-line and in person.</p>
 
+<p>We believe in the value of <a 
+href="http://www.gnu.org/philosophy/free-sw.html">. In this web site, we call it
+"open source" because that term is more well-known.
+You can read more about the history of the phrases
+in Karl Fogel's book,
+<a href="http://producingoss.com/en/introduction.html#free-vs-open-source">Producing Open Source Software</a>.</p>
+
 <h2>Get in touch</h2>
 
 <p>If you want to help one of these events happen near you, you can <a href="/upcoming-events/">read how to do that</a>.</p>
