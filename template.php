@@ -22,7 +22,7 @@ $BASE="http://campus.openhatch.org/";
    <li><a href="past-events/">Past events</a></li>
    <li><a href="upcoming-events/">Upcoming events</a></li>
    <li><a href="about/">About us</a></li>
-   <li><a href="sponsors/">Sponsors</a></li>
+<?php //    <li><a href="sponsors/">Sponsors</a></li> ?>
   </ul>
  </div>
 </div>
