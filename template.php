@@ -5,6 +5,7 @@ $BASE="http://campus.openhatch.org/";
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title><?php echo $page_title?> -- Open Source Comes to Campus</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="<?php echo $BASE ?>/style.css" media="screen" />
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
 <base href="<?php echo $BASE ?>" />
