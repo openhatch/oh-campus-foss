@@ -8,7 +8,7 @@ $content = <<<EOD
 <p>Hi. We're <a href="http://openhatch.org">OpenHatch</a>. We're a bunch of open
 source software enthusiasts.</p>
 
-<p>We organize weekend workshops at colleges to teach students how to get
+<p>We're currently organizing weekend workshops at colleges to teach students how to get
 involved in open source software. You can invite us to your college.</p>
 
 <p>We want more college students to have the community knowledge and technical
