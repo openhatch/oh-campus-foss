@@ -4,7 +4,16 @@ $content = <<<EOD
 
 <h2>Become a sponsor</h2>
 
-<p>With your support, we can teach open source participation and
+<p>Do you represent a big free software project with contributors
+around the globe? We would love to partner with you on getting those
+people into classrooms and teaching university students.</p>
+
+<p>Do you represent a company that uses open source heavily?
+We want your help financing travel and other event expenses.
+By sponsoring Open Source Comes to Campus, we will give your
+brand more visibility and showcase your company's open source
+connections to students who will soon be entering the workforce.
+With your support, we can teach open source participation and
 collaboration skills to hundreds or thousands of students.</p>
 
 <p>Our goal is to bring local open source
@@ -13,18 +22,21 @@ communities and making both stronger. By focusing on building
 local community, we keep costs low while also increasing the
 chance of sustained involvement on both sides.</p>
 
-<p>Your sponsorship would go toward event expenses like refreshments
-and travel for the event organizer. We are also seeking ongoing
-sponsors willing to fund curriculum development. You can support
-open source in your community, now and in the years to come, by donating.</p>
+<h2>How to become a sponsor</h2>
 
 <p>If you are interested in sponsoring, by donating
-funds or in kind, let us know at <a href="mailto:hello@openhatch.org">hello@openhatch.org</a>.
+funds or providing in-kind donations,
+let us know at <a href="mailto:hello@openhatch.org">hello@openhatch.org</a>.
 If you are part of an open source project and want to help
 teach these events, send us email as well!</p>
 
+<p>We are seeking volunteers to join us in the classroom, as well asongoing
+sponsors willing to fund curriculum development. You can support
+open source in your community, now and in the years to come, by donating.</p>
+
 <p>Open Source Comes to Campus is a project of OpenHatch, a
-community open source project. Soon it will be a project of
+community open source project. We are in the process of applying to
+be a project of
 Software in the Public Interest, a New York-based 501(c)3
 non-profit.</p>
 
