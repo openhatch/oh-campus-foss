@@ -22,5 +22,5 @@ curriculum/index.html: template.php page-data/curriculum
 about/index.html: template.php page-data/about
 	php page-data/about > about/index.html
 
-#sponsors/index.html: template.php page-data/sponsors
-#	php page-data/sponsors > sponsors/index.html
+sponsors/index.html: template.php page-data/sponsors
+	php page-data/sponsors > sponsors/index.html

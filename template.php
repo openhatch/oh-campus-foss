@@ -11,7 +11,6 @@ $BASE="http://campus.openhatch.org/";
 <base href="<?php echo $BASE ?>" />
 </head>
 <body>
-<img src="/images/beta_banner.png" id="beta_banner">
 <div id="header">
 <a href="http://www.openhatch.org"><img src="images/openhatch-logo.png" class="alignleft" /></a>
 <h1><a href=""><?php echo $site_title?></a></h1>
@@ -23,7 +22,7 @@ $BASE="http://campus.openhatch.org/";
    <li><a href="past-events/">Past events</a></li>
    <li><a href="upcoming-events/">Upcoming events</a></li>
    <li><a href="about/">About us</a></li>
-<?php //    <li><a href="sponsors/">Sponsors</a></li> ?>
+   <li><a href="sponsors/">Sponsors</a></li>
   </ul>
  </div>
 </div>
