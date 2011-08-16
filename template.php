@@ -17,12 +17,12 @@ $BASE="http://campus.openhatch.org/";
 <h2>by OpenHatch</h2>
  <div id="menu">
   <ul id="nav">
-   <li><a href="">Home</a></li>
-   <li><a href="curriculum/">What we teach</a></li>
-   <li><a href="past-events/">Past events</a></li>
-   <li><a href="upcoming-events/">Upcoming events</a></li>
-   <li><a href="about/">About us</a></li>
-   <li><a href="sponsors/">Sponsors</a></li>
+   <li <?php if ( $page_slug == 'index' ) { echo 'class="activelink" '; } ?> > <a href="">Home</a></li>
+   <li <?php if ( $page_slug == 'curriculum' ) { echo 'class="activelink" '; } ?> > <a href="curriculum/">What we teach</a></li>
+   <li <?php if ( $page_slug == 'past-events' ) { echo 'class="activelink" '; } ?> > <a href="past-events/">Past events</a></li>
+   <li <?php if ( $page_slug == 'upcoming-events' ) { echo 'class="activelink" '; } ?> > <a href="upcoming-events/">Upcoming events</a></li>
+   <li <?php if ( $page_slug == 'about' ) { echo 'class="activelink" '; } ?> > <a href="about/">About us</a></li>
+   <li <?php if ( $page_slug == 'sponsors' ) { echo 'class="activelink" '; } ?> > <a href="sponsors/">Sponsors</a></li>
   </ul>
  </div>
 </div>
