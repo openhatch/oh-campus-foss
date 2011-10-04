@@ -7,7 +7,7 @@ $content = <<<EOD
 var click_handler = function () {
    // Create the iframe we will drop in
    var iframe = document.createElement("iframe");
-   iframe.src = "http://webchat.freenode.net?randomnick=1&channels=%23%23openhatch&uio=d4";
+   iframe.src = "http://webchat.freenode.net?randomnick=1&channels=%23openhatch&uio=d4";
    iframe.width = "640";
    iframe.height = "400";
 
