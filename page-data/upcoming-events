@@ -5,7 +5,9 @@ $content = <<<EOD
 
 <h2>Upcoming events</h2>
 
-<p>No events scheduled yet.</p>
+<ul>
+<li>Sat, Sun Feb 25-26: University of Maryland</li>
+</ul>
 
 <h2>How to bring us to your school</h2>
 
