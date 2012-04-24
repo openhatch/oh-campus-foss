@@ -7,7 +7,7 @@ $content = <<<EOD
 
 <ul>
 <li><a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/UMD">Open Source Comes to Campus: UMD</a> - February 25-26, UMD College Park.
-<p>Organized by Asheesh Laroia and co-sponsored by the Association of Women in Computing, UMD College Park.</p>
+<p>Organized by <a href="https://openhatch.org/people/paulproteus">Asheesh Laroia</a> and co-sponsored by the Association of Women in Computing, UMD College Park.</p>
 <p><em>Publicity:</em> <a href="http://acm.cs.umd.edu/item/240452">Event announcement</a> within UMD ACM. <a href="http://www.flickr.com/photos/jessicamckellar/sets/72157629123742210/">Photos</a> from the weekend.</li>
 <li><a href="https://openhatch.org/wiki/Open_Source_Workshop">MIT Open Source Workshop</a> - September 20, 2011
 <p>Organized by <a href="http://openhatch.org/people/jesstess/">Jessica McKellar</a>, and co-sponsored by the <a href="http://sipb.mit.edu/">MIT Student Information Processing Board</a> as a Cluedump. The Cluedump format limited this event to just the teaching day.</p>
