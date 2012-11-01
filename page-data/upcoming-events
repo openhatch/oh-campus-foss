@@ -5,10 +5,7 @@ $content = <<<EOD
 
 <h2>Upcoming events</h2>
 
-<ul>
-<li>Sep 13 and 15: Baltimore, MD: <a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/JHU">Johns Hopkins University</a></li>
-<li>Tentative events planned at UIUC and Wellesley</li>
-</ul>
+<p>We're currently planning events for spring 2013.</p>
 
 <h2>How to bring us to your school</h2>
 
