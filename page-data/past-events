@@ -6,6 +6,9 @@ $content = <<<EOD
 <h2>Past events</h2>
 
 <ul>
+<li><a href="http://www.acm.uiuc.edu/conference/2012/openhatch.php">Open Source Workshop by OpenHatch</a> at UIUC - Sunday Oct 7, 2012 (plus talk on Sat Oct 6), University of Illinois, Urbana-Champaign, IL.
+<p>Organized by Shauna Gordon-McKeon and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, invited by the <a href="http://www.acm.uiuc.edu/">UIUC ACM</a>.</p>
+<p><em>Publicity</em>: <a href="https://openhatch.org/blog/2012/teaching-open-source-at-uiuc-reflections-projections/">Wrap-up post</a> on the OpenHatch blog. <a href="http://www.flickr.com/photos/paulproteus/sets/72157631732465491/">Photos</a> available.</p>
 <li><a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/JHU">Open Source Comes to Campus: JHU</a> - Thu Sep 13 and Sat Sep 15, 2012, Johns Hopkins University, Baltimore, MD.
 <p>Organized by <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, invited by the <a href="http://www.acm.jhu.edu/">JHU ACM</a>. Generously sponsored by <a href="http://omniti.com/">OmniTI</a> and <a href="http://www.dreamwidth.org/">Dreamwidth Studios</a>.</p>
 <p><em>Publicity</em>: <a href="http://www.acm.jhu.edu/allstories.php#date-2012-09-09">Announcement on JHU ACM site</a>. Photos by <a href="http://acm.jhu.edu/~me/ohjhu">Venkatesh</a> and <a href="http://www.flickr.com/photos/paulproteus/sets/72157631677669485/">Asheesh</a> available.</p>
