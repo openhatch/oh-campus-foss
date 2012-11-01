@@ -6,6 +6,10 @@ $content = <<<EOD
 <h2>Past events</h2>
 
 <ul>
+<li><a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/JHU">Open Source Comes to Campus: JHU</a> - Thu Sep 13 and Sat Sep 15, Johns Hopkins University, Baltimore, MD.
+<p>Organized by <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, invited by the <a href="http://www.acm.jhu.edu/">JHU ACM</a>. Generously sponsored by <a href="http://omniti.com/">OmniTI</a> and <a href="http://www.dreamwidth.org/">Dreamwidth Studios</a>.</p>
+<p><em>Publicity</em>: <a href="http://www.acm.jhu.edu/allstories.php#date-2012-09-09">Announcement on JHU ACM site</a>. Photos by <a href="http://acm.jhu.edu/~me/ohjhu">Venkatesh</a> and <a href="http://www.flickr.com/photos/paulproteus/sets/72157631677669485/">Asheesh</a> available.</p>
+</li>
 <li><a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/RPI">Open Source Comes to Campus: RPI</a> - April 21-22 , Rensselaer Polytechnic Institute, Troy, NY.
 <p>Organized by <a href="https://openhatch.org/people/paulproteus">Asheesh Laroia</a> and co-sponsored by the <a href="http://rcos.rpi.edu/">Rensselaer Center for Open Source</a>. Sponsored by <a href="http://kitware.com">Kitware</a> and <a href="http://nokia.com/">Nokia</a>.</p>
 <p><em>Publicity:</em> <a href="http://rcosblogbymsk.blogspot.com/2012/04/week-13-4202012-spring-2012.html">Weekly update</a> within RCOS blog. <a href="https://www.facebook.com/permalink.php?story_fbid=281351691946556&id=215498457462">Update</a> within RPI Computer Science Facebook. <a href="http://poly.rpi.edu/2012/04/18/open_source_software_event_to_take_place/">Article</a> in <em>Polytechnic</em>, RPI's student newspaper.
