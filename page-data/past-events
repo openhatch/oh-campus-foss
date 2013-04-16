@@ -7,13 +7,13 @@ $content = <<<EOD
 
 <ul>
 <li>
-<a href="http://umass.openhatch.org/">Open Source Comes to Campus: UMass</a> - Sunday, April 14th, University of Massachusetts at Amherst, MA
+<a href="http://umass.openhatch.org/">Open Source Comes to Campus: UMass</a> - Sunday, April 14th, University of Massachusetts, Amherst, MA
 <p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by <a href="http://sites.ieee.org/sb-umassa/">UMass IEEE</a> and <a href="http://umass.acm.org/">UMass ACM</a>.</p>
 <p><i>Publicity</i>: Blog post & pictures coming soon.</p>
 </li>
 <li>
 <a href="http://wellesley.openhatch.org/">Open Source Comes to Campus: Wellesley</a> - Saturday, April 6th, Wellesley College, Wellesley, MA
-<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by Kristian Tran and the <a href="http://new.wellesley.edu/cs">Wellesley Department of Computer Science</a>.</p>
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by the <a href="http://new.wellesley.edu/cs">Wellesley Department of Computer Science</a>.</p>
 <p><em>Publicity</em>: <a href="https://openhatch.org/blog/2013/wellesley/">Wrap-up post</a> on the OpenHatch blog. <a href="http://www.flickr.com/photos/paulproteus/sets/72157633210961074/">Photos</a> available.</p>
 </li>
 <li>
