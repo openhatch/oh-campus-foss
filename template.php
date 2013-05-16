@@ -33,7 +33,8 @@ $BASE="http://campus.openhatch.org/";
 <img src="images/intenseteaching.jpg" />
 <img src="images/welcomehackers.jpg" />
 <img src="images/yuvithinks.jpg" />
-<img src="images/studentandlaptop.jpg" />
+<img src="images/amherststudents.jpg" />
+<img src="images/amherststudents2.jpg" />
 </div>
 <div id="left">
 <?php echo $content ?>
