@@ -29,11 +29,10 @@ $BASE="http://campus.openhatch.org/";
 <div id="content">
 <div id="right">
 <img src="images/happystudents.jpg" />
-<img src="images/twostudentsconcentrating.jpg"/>
+<img src="images/amherststudents.jpg" />
 <img src="images/intenseteaching.jpg" />
 <img src="images/welcomehackers.jpg" />
 <img src="images/yuvithinks.jpg" />
-<img src="images/amherststudents.jpg" />
 <img src="images/amherststudents2.jpg" />
 </div>
 <div id="left">
