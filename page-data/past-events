@@ -7,14 +7,39 @@ $content = <<<EOD
 
 <ul>
 <li>
+OpenHatch Comes to Grace Hopper Open Source Day - Saturday, October 5th, 2013, Grace Hopper Celebration of Women in Computing, Minneapolis, MN
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, and more generally by <a href="http://gracehopper.org/2013/conference/grace-hopper-open-source-day/">the Grace Hopper Celebration Open Source Day organizers</a>.</p>
+<p><i>Publicity</i>: Photos and a blog post coming soon.</p>
+</li>
+<li>
+<a href="http://morris.openhatch.org/">Open Source Comes to Campus: Morris</a> - Saturday, September 28th, 2013, University of Minnesota-Morris, Morris, MN
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by the Computer Science Discipline at Morris.</p>
+<p><i>Publicity</i>: <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106635206/">Photos</a> <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106631046/">available</a>.  Blog posts coming soon.</p>
+</li>
+<li>
+<a href="http://chicago.openhatch.org/">Open Source Comes to Campus: Chicago women at UIC and beyond</a> - Wednesday, September 25th and Thursday, September 26th, 2013, University of Illinois-Chicago, Chicago, IL
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by <a href="http://www.cs.uic.edu/CSGSA/WiCS">Women in Computer Science at UIC</a> and <a href="http://www.cs.uic.edu/">UIC Computer Science</a>.</p>
+<p><i>Publicity</i>: <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106594386/">Photos</a> <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106826233/">available</a>.  Blog posts coming soon.</p>
+</li>
+<li>
+<a href="http://purdue.openhatch.org/">Open Source Comes to Campus: Purdue</a> - Sunday, September 22nd, 2013, Purdue University, Lafayette, IN
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by <a href="http://www.cs.purdue.edu/cswn">the Computer Science Women's Network</a>.</p>
+<p><i>Publicity</i>: <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106786844/">Photos</a> <a href="http://www.flickr.com/photos/paulproteus/sets/72157636106781624/">available</a>.  Blog posts coming soon.</p>
+</li>
+<li>
+<a href="iub.openhatch.org">Open Source Comes to Campus: IU-Bloomington</a> - Saturday, September 21st, 2013, IU-Bloomington, Bloomington, IN 
+<p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a> and <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by <a href="http://www.soic.indiana.edu/">the Indiana University School of Informatics and Computing</a> and <a href="http://csclub.soic.indiana.edu/">the Indiana University CS Club</a>.</p>
+<p><i>Publicity</i>: <a href="http://openhatch.org/blog/2013/teaching-open-source-at-indiana-university-bloomington/">Wrap-up post on the OpenHatch blog</a>.  <a href="http://www.flickr.com/photos/paulproteus/sets/72157636075181554/">Photos</a> <a href="http://www.flickr.com/photos/paulproteus/sets/72157636075330234/">available</a>.</p>
+</li>
+<li>
 <a href="http://ccsf.openhatch.org/">Open Source Comes to Campus: CCSF</a> - Saturday, June 29th, 2013, City College, San Francisco, CA
-<p>Organized by <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia, hosted by <a href="http://www.ccsf.edu/coders">CCSF Coders</a> and <a href="http://www.ccsf.edu/lug">the CCSF Linux Users Group</a>.</p>
+<p>Organized by <a href="https://openhatch.org/people/paulproteus/">Asheesh Laroia</a>, hosted by <a href="http://www.ccsf.edu/coders">CCSF Coders</a> and <a href="http://www.ccsf.edu/lug">the CCSF Linux Users Group</a>.</p>
 <p><i>Publicity</i>: Blog post & pictures coming soon.</p>
 </li>
 <li>
 <a href="http://boston-summer.openhatch.org/">Open Source Comes to Campus: Boston Summer</a> - Saturday, June 22nd, 2013, Northeastern University, Boston, MA
 <p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a>, hosted by <a href="http://acm.ccs.neu.edu/">NU ACM</a>.</p>
-<p><i>Publicity</i>: Blog post & pictures coming soon.</p>
+<p><i>Publicity</i>: <a href="http://openhatch.org/blog/2013/northeastern-university/">Wrap-up post on the OpenHatch blog</a>.</p>
 </li>
 <li>
 <a href="http://umass.openhatch.org/">Open Source Comes to Campus: UMass</a> - Sunday, April 14th, 2013, University of Massachusetts, Amherst, MA
