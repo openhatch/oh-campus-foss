@@ -24,3 +24,4 @@ about/index.html: template.php page-data/about
 
 sponsors/index.html: template.php page-data/sponsors
 	php page-data/sponsors > sponsors/index.html
+# ok
