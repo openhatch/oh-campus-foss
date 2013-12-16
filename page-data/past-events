@@ -7,6 +7,11 @@ $content = <<<EOD
 
 <ul>
 <li>
+<a href="http://princeton.openhatch.org/">OpenHatch comes to Campus: Princeton</a> - Sunday, November 24th, 2013, Princeton University, Princeton, NJ
+<p>Organized and hosted by <a href="http://princetonwics.wordpress.com/">Princeton Women in Computer Science</a>.</p>
+<p><i>Publicity</i>: Photos and a blog post coming soon.</p>
+</li>
+<li>
 OpenHatch comes to Campus: Rutgers - Monday, October 22nd, 2013, Rutgers University, Piscataway, NJ
 <p>Organized by <a href="http://www.shaunagm.net/blog/">Shauna Gordon-McKeon</a>, hosted by <a href="http://wcs.rutgers.edu/">Rutgers' Women in Computer Science</a>.</p>
 <p><i>Publicity</i>: Photos and a blog post coming soon.</p>
