@@ -118,3 +118,16 @@ h1 {
 .media-heading {
   margin-bottom:10px;
 }
+
+.project {
+  border:4px solid;
+  border-radius:25px;
+  padding:10px;
+  text-align:center;
+}
+
+.pb {
+  text-align:left;
+  padding-bottom:10px;
+}
+
