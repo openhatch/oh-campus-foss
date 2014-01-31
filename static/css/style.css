@@ -124,3 +124,8 @@ h1 {
     width: 100%;
   }
 }
+
+.tiers ul {
+  padding-left: 16px;
+  padding-right: 0;
+}
