@@ -118,3 +118,9 @@ h1 {
 .media-heading {
   margin-bottom:10px;
 }
+
+@media (max-width: 500px) {
+  .col-xxs-12, .col-xxs-12 .img-responsive {
+    width: 100%;
+  }
+}
