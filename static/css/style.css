@@ -141,3 +141,15 @@ h1 {
   padding-left: 16px;
   padding-right: 0;
 }
+
+.scale h1 {
+  align:center;
+}
+
+.scale a:link, 
+.scale a:visited, 
+.scale a:hover, 
+.scale a:active {
+  text-decoration:none;
+  font-weight:normal;
+}
