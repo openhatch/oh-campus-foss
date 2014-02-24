@@ -124,6 +124,7 @@ h1 {
   border-radius:25px;
   padding:10px;
   text-align:center;
+  margin:10px;
 }
 
 .pb {
@@ -152,4 +153,8 @@ h1 {
 .scale a:active {
   text-decoration:none;
   font-weight:normal;
+}
+
+.projectlogo {
+  height:70px;
 }
