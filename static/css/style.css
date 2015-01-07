@@ -10,12 +10,20 @@ h1 {
   font-weight: 900;
 }
 
+
+.pastevents a {
+  text-decoration: underline;
+}
 .row {
   padding-bottom: 2em;
 }
 
 .headerpane {
   color: white;
+}
+
+.headerpane a {
+  text-decoration: underline;
 }
 
 .headerpane h1 {
