@@ -10,6 +10,11 @@ h1 {
   font-weight: 900;
 }
 
+
+.pastevents a {
+  text-decoration: underline;
+}
+
 .row {
   padding-bottom: 2em;
 }
@@ -64,6 +69,10 @@ h1 {
   font-size: 26px;
   font-weight: 200;
   line-height: 1.4;
+}
+
+.lead a {
+  text-decoration: underline;
 }
 
 .masthead {
