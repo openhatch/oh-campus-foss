@@ -1,7 +1,7 @@
 oh-campus-foss
 ==============
 
-Website explaining the student immersion program
+Website explaining the student immersion program.  Issues should be filed in the [Open Source Comes to Campus repo](https://github.com/openhatch/open-source-comes-to-campus/).
 
 
 How to run locally
